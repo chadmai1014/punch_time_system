@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 圖片範例
 
-![圖片](https://raw.githubusercontent.com/chadmai1014/punch_time_system/master/sample/%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A%E9%A0%81.png)
+![圖片](https://raw.githubusercontent.com/chadmai1014/punch_time_system/master/sample/%E6%89%93%E5%8D%A1%E9%A0%81.png)
